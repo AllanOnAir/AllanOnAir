@@ -5,7 +5,7 @@ Working daily as a self taught programmer. Learning everyday to make a greater w
 * Technology known
   * Javascript
   * NodeJS
-  * MongoDB
+  * :melon: MongoDB :melon:
   * :snake: **Python** :snake:
   * HTML/CSS
   * C
