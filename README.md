@@ -13,4 +13,9 @@ Working daily as a self taught programmer. Learning everyday to make a greater w
 * **Working on project such as**
   * :white_check_mark: **Alt:V Roleplay Framework** :white_check_mark:
   * :computer: **Web Game and WebSite** :computer:
-  * :mortar_board: **online courses** :mortar_board:
+  * :mortar_board: **Teaching some young people** :mortar_board:
+  * :smiley: **Self-development application** :smiley:
+
+* **Join me**
+  * :tv:**Discord : AllanOnAir#7718 **:tv:
+  * :mailbox:**Email : Allan@onairstudio.org **:mailbox:
