@@ -17,5 +17,5 @@ Working daily as a self taught programmer. Learning everyday to make a greater w
   * :smiley: **Self-development application** :smiley:
 
 * **Join me**
-  * :tv:**Discord : AllanOnAir#7718 **:tv:
-  * :mailbox:**Email : Allan@onairstudio.org **:mailbox:
+  * :tv:**Discord : AllanOnAir#7718**:tv:
+  * :mailbox:**Email : Allan@onairstudio.org**:mailbox:
