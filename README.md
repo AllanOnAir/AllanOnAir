@@ -5,7 +5,12 @@ Working daily as a self taught programmer. Learning everyday to make a greater w
 * **Technology and language i'm actualy working with**
   * :vs: **Javascript** :vs:
   * :white_check_mark: **NodeJS** :white_check_mark:
-  * :melon: **MongoDB** :melon:
+  * :leaves: **MongoDB** :leaves:
   * :snake: **Python** :snake:
   * :globe_with_meridians: **HTML/CSS** :globe_with_meridians:
   * :maple_leaf: **C** :maple_leaf:
+
+* **Working on project such as**
+  * :white_check_mark: **Alt:V Roleplay Framework** :white_check_mark:
+  * :computer: **Web Game and WebSite** :computer:
+  * :mortar_board: **online courses** :mortar_board:
