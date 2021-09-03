@@ -3,9 +3,9 @@
 Working daily as a self taught programmer. Learning everyday to make a greater world.
 
 * Technology known
-  * Javascript
-  * NodeJS
-  * :melon: MongoDB :melon:
+  * :vs: **Javascript** :vs:
+  * :white_check_mark: **NodeJS** :white_check_mark:
+  * :melon: **MongoDB** :melon:
   * :snake: **Python** :snake:
-  * HTML/CSS
-  * C
+  * :globe_with_meridians: **HTML/CSS** :globe_with_meridians:
+  * :maple_leaf: **C** :maple_leaf:
