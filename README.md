@@ -2,7 +2,7 @@
 
 Working daily as a self taught programmer. Learning everyday to make a greater world.
 
-* Technology known
+* **Technology known**
   * :vs: **Javascript** :vs:
   * :white_check_mark: **NodeJS** :white_check_mark:
   * :melon: **MongoDB** :melon:
