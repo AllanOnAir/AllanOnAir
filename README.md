@@ -4,6 +4,7 @@ Working daily as a self taught programmer. Learning everyday to make a greater w
 
 * **Technology and language i'm actualy working with**
   * :vs: **Javascript** :vs:
+  * :snowflake: **React** :snowflake:
   * :white_check_mark: **NodeJS** :white_check_mark:
   * :leaves: **MongoDB** :leaves:
   * :snake: **Python** :snake:
