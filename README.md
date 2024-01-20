@@ -1,6 +1,6 @@
 ## **Wassup 👋🏼, I'm Allan, also known as.. The cool dude who code 12 hours a day !**
 
-Working daily as a self taught programmer. Learning everyday to make a greater world.
+Working daily as a self taught programmer.
 
 * **Technology and language i'm actualy working with**
   * :vs: **Javascript** :vs:
