@@ -1,4 +1,4 @@
-## **Wassup 👋🏼, I'm Allan, also known as.. The cool dude who code 12 hours a day !**
+## **Wassup 👋🏼, I'm Allan, also known as.. The cool dude who code 6 hours a day !**
 
 Working daily as a self taught programmer.
 
